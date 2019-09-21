@@ -3,8 +3,12 @@
 Project wallets are for store , send and receive BNC &amp; BioX tokens 
 
 # Android
-Demo wallet is available now .
-Do not deposit your funds it's just a DEMO wallet .
+Bionic Android Wallet is #Live , download it from official website
+
+* Create wallet using password ( like myetherwallet steps )
+** Save your private key before usage of app.
+* Private Key exist in "Wallet Backup"
+We will make explainer video soon .
 
 # IOS
 
